@@ -1,0 +1,99 @@
+{
+  "source": "User uploaded TStore-main (3).zip",
+  "created_on": "2026-11-05",
+  "description": "7rayer documentation and safe branding cleanup; excludes all secrets, .env, browser profiles and generated build files",
+  "changed_files": [
+    {
+      "path": "7RAYER_ACCOUNT_INSTALL_README.md",
+      "sha256": "4361f7e938852a6f73dd9ff234b6f23a30c37b2d80fdb2d2be68c23edf4aa0bc"
+    },
+    {
+      "path": "7rayer_catalog_demo_regenerated.sql",
+      "sha256": "5a401f16fc18e28f9055fb687d4300a9eff8608b6c0d9c8e4a2a56a7ec09d881"
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "cab33eea9a722fc070e7ddca672105ade2d153c743e069f5f2dd542e2a10023b"
+    },
+    {
+      "path": "INSTALL_README.md",
+      "sha256": "deec4d181672431c7d058c2797420b1a20baaf3a43b719b8ce466120f89cabc0"
+    },
+    {
+      "path": "README.md",
+      "sha256": "feb9798498d239e5895fa7965eb722739fac2c695d0be4cf12c88e2b5b855763"
+    },
+    {
+      "path": "README.txt",
+      "sha256": "21c50813ddaad76dff23957b482e2ce7099aa78348214d68393d8a9aaa8d6ddb"
+    },
+    {
+      "path": "android/app/src/main/AndroidManifest.xml",
+      "sha256": "fe302dc357bde3c603240ab685e5e07063d535d6a0943c658ed7dd37c377276c"
+    },
+    {
+      "path": "docs/ASSET_GUIDE.md",
+      "sha256": "e31049a2176b343c6a47a39c9229bee40e6088489bbb82354d607dffbb7ae8e9"
+    },
+    {
+      "path": "docs/BRANDING_AUDIT.md",
+      "sha256": "c9dd88284580dcf27cc75f257b095cb4dbb8559996f71e621b24a3c069424043"
+    },
+    {
+      "path": "docs/FEATURE_STATUS.md",
+      "sha256": "9dbf4e86f0e8c3c2f7703954e0cdbb37ad91737574fc2a8d25abdf9eacaf3e7e"
+    },
+    {
+      "path": "docs/RELEASE_CHECKLIST.md",
+      "sha256": "69b54e0d612b65236eb5bddf3dddccba942d5218e2fd72cb559da4d285f7d526"
+    },
+    {
+      "path": "flutter_launcher_icons.yaml",
+      "sha256": "2103dfada30e0be69213613951ea76ad1c63413b4bf21c6fd5ca1188f61c7ab4"
+    },
+    {
+      "path": "ios/Runner/Info.plist",
+      "sha256": "23513c7b82c21dca80ca3e352760db0bc3b1d2b433973a555a47ca9d9286e870"
+    },
+    {
+      "path": "lib/core/utils/constants/image_strings.dart",
+      "sha256": "c24fa391d13b5a0e6737e6d7b7b5755e1458814f36ce6486f6f9b84e53be72cf"
+    },
+    {
+      "path": "linux/my_application.cc",
+      "sha256": "b97a291185cdb16898febdb4ea35c811fb1f54abf1acd8131a39fb27924a43b2"
+    },
+    {
+      "path": "plans/project_analysis_and_roadmap.md",
+      "sha256": "2e3f37b9f35e2a41b3267cb8c6d2ed492ad5ba193e91699f11c1fc0f7d21a9d8"
+    },
+    {
+      "path": "plans/supabase_migration_plan.md",
+      "sha256": "43bb5abc4eed1ddb6465b6ad7c8c9446d4f19c99e1494e5a07dcc2c9a4461bc5"
+    },
+    {
+      "path": "splash.yaml",
+      "sha256": "6e9aa17094c3ba2684d3d410a2edd7efd6fad806bae635a5aaa8f7dfaa8bfc18"
+    },
+    {
+      "path": "supabase_sample_data.sql",
+      "sha256": "1ba51968cd9610cc273e3e46bc886f88e4882b22b0d525446a2249d145dabdbf"
+    },
+    {
+      "path": "web/index.html",
+      "sha256": "d040f223c844d3890062263ffbcdc42e577ad5d4feb13dbe106b1a5d99d2c4cc"
+    },
+    {
+      "path": "web/manifest.json",
+      "sha256": "b788131327ce5522e80521827c403c7aa8c029fd0ba96c7467a123b280b27616"
+    },
+    {
+      "path": "windows/runner/Runner.rc",
+      "sha256": "ab4a174cc573edf4b8aa690c61bcef5487a35676f6981e63fcbf80a5729d913f"
+    },
+    {
+      "path": "windows/runner/main.cpp",
+      "sha256": "0a62dc22534ef917407332b624b4c60e575332a3707965a60769b49d7c000667"
+    }
+  ]
+}

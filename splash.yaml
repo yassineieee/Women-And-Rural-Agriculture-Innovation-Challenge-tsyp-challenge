@@ -1,0 +1,13 @@
+# 7rayer splash configuration. Current logo asset is dark, so keep a light
+# background in both themes for legibility until a dedicated white logo exists.
+flutter_native_splash:
+  color: "#FFF8F3"
+  color_dark: "#FFF8F3"
+  image: assets/logos/7rayer-splash-logo-black.png
+  image_dark: assets/logos/7rayer-splash-logo-black.png
+  android_12:
+    color: "#FFF8F3"
+    color_dark: "#FFF8F3"
+    image: assets/logos/7rayer-splash-logo-black.png
+    image_dark: assets/logos/7rayer-splash-logo-black.png
+  web: false

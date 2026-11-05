@@ -1,0 +1,19 @@
+# 7rayer app icon configuration. Uses the existing local 7rayer PNG.
+# Run: dart run flutter_launcher_icons
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logos/7rayer-splash-logo-black.png"
+  min_sdk_android: 21
+  web:
+    generate: true
+    image_path: "assets/logos/7rayer-splash-logo-black.png"
+    background_color: "#FFF8F3"
+    theme_color: "#9F1833"
+  windows:
+    generate: true
+    image_path: "assets/logos/7rayer-splash-logo-black.png"
+    icon_size: 48
+  macos:
+    generate: true
+    image_path: "assets/logos/7rayer-splash-logo-black.png"
